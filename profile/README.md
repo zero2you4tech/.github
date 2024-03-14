@@ -1,6 +1,6 @@
 # About
 
-无何有工作室致力于开发有意思的产品，人生的意义就是整活、整活，还特么是整活。
+无何有工作室致力于开发有意思的产品。人生的意义就是整活、整活，还特么是整活。
 
 Zero2You Studio is committed to developing interesting products. The meaning of life is to have fun, have fun, and damn well have fun.
 
