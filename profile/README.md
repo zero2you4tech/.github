@@ -22,4 +22,4 @@ Zero2You Studio is committed to developing interesting products. The meaning of 
 
 1. [BuyMeACoffee.com](https://www.buymeacoffee.com/petterobam)
 2. [Open Collective](https://opencollective.com/zero2you4tech#category-ABOUT)
-3. [Alipay (China)]() | [WechatPay（China）]()
+3. [Alipay (China)](Alipay.jpg) | [WechatPay（China）](WechatPay.jpg)
