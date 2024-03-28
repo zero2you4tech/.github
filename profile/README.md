@@ -15,7 +15,7 @@ Zero2You Studio is committed to developing interesting products. The meaning of 
 7. ![icon](https://github.com/zero2you4tech/.github/blob/main/profile/apps/Z2Y-Book/icon_16x16@2x.png) [Z2Y Book4?](): 垂直专业文档集成工具: 信息统一格式解析，图书 *导入、&构建、%搜索、@打包、¥售卖、！导出。
 ## IOS APP
 
-1. <img src="https://github.com/zero2you4tech/.github/blob/main/profile/apps/Z2Y-AC/logo.png" style="width:30px;"> [Z2Y 天问](): 从变化中寻找信念、获取勇气，一切答案都在你自己心中。#易经卜筮 #游戏（Ask Change: Find beliefs and gather courage from changes. #TheBookOfChange #Game）
+1. <img src="https://github.com/zero2you4tech/.github/blob/main/profile/apps/Z2Y-AC/logo.png" style="width:30px;"/> [Z2Y 天问](): 从变化中寻找信念、获取勇气，一切答案都在你自己心中。#易经卜筮 #游戏（Ask Change: Find beliefs and gather courage from changes. #TheBookOfChange #Game）
 2. ![icon](https://github.com/zero2you4tech/.github/blob/main/profile/apps/Z2Y-Water/icon_16x16@2x.png) [Z2Y Water](): 为了更好的自己，请多喝水！！！（For a better self, please keep drinking water!!!）
 
 ## Donation
