@@ -2,9 +2,13 @@
 
 <img src="https://github.com/zero2you4tech/.github/blob/main/profile/icon_128x128@cut.png" style="width:20px;"/> 工作室首页： [Zero2You Studio](https://www.zero2you.tech/)
 
-无何有工作室致力于开发有意思的产品。人生的意义就是整活、整活，还特么是整活。
+无何有工作室致力于开发有意思的产品。
 
-Zero2You Studio is committed to developing interesting products. The meaning of life is to have fun, have fun, and damn well have fun.
+Zero2You Studio is committed to developing interesting products.
+
+人生的意义就是整活、整活，还特么是整活。
+
+The meaning of life is to have fun, have fun, and damn well have fun.
 
 ## MAC APP
 
